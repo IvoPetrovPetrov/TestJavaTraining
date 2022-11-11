@@ -25,7 +25,7 @@ public class GrossPayCalculator {
         double grossPay = hours * rate;
 
         //4. Display result
-        System.out.println("The employees gross pay is " + grossPay);
+        System.out.println("Employees gross pay is " + grossPay);
 
     }
 }
